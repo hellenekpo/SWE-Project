@@ -14,6 +14,14 @@ The Music Directory is a streaming service that allows users to have a personali
 To configure your system for development, first install git and then run make dev_env.
 
 ## Requirements 
+The program should be able to:
+1. Play music on demand
+2. Contain music in several databases, which are playlists.
+3. Store information about the user (name, phone, email address)
+4. Accommodate video calling to connect users
+5. Create sessions for users to be able to meet each other
+
+
 Users should be able to:
 
 1. Create new profiles 
